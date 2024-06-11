@@ -1,0 +1,22 @@
+body{
+  background-image:linear-gradient(#FFC8DD ,#A2D2FF);
+  text-align:center;
+  color: white;
+  font-family: "Pacifico";
+}
+
+h1{
+    background-color: #CDB4DB;
+    padding: 20px;
+}
+button {
+    background-color:#FFAFCC; 
+    color:white;  
+    font-weight: bolder;
+    padding: 10px;
+    font-size: 18px;
+    text-shadow: 4px 4px 5px black;
+    border-radius:20px;
+    margin-left: 30px;
+    margin-top: 40px;
+}
